@@ -22,8 +22,4 @@ conversation context, and generates meaningful responses using LLMs.
 - Database: MySQL / SQL Server
 - AI: Large Language Models (LLM)
 
-## Project Report
-The complete project report is available in the `report/` folder.
 
-## Author
-Abina M S
